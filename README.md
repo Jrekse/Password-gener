@@ -1,1 +1,3 @@
 # Password-gener
+
+I really dropped the ball with this project, i really could not figure out how to randomize the result everytime. what i did was made the prompt take in the user response and turn it into an array which then gets its index manually shoved into a pattern which is converted back into a string and rendered on the page. This is going to be a hit on my grade but i fugured a password generator that kinda works is better than a 0
